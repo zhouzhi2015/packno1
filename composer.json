@@ -1,0 +1,16 @@
+{
+    "name":         "packno1",
+    "type":         "library",
+    "description":  "test packno1",
+    "homepage":     "https://github.com/zhouzhi2015/packno1",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name": "zhouzhi",
+            "email": "1184795629@qq.com"
+        }
+    ],
+    "require":      {
+        "php": ">=5.6"
+    }
+}
